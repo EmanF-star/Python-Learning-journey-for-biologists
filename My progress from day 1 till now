@@ -1,0 +1,28 @@
+course_progress.md
+# 📘 My Progress — Python for Biologists and Beginners (Udemy)
+
+**Course:** Python for Biologists and Beginners  
+**Platform:** Udemy  
+**Progress:** Completed up to 
+
+---
+
+## ✅ Sections Completed
+### **Section 1 & 2 : introduction and basic biology review
+### **Section 3: Getting Started with Python**
+- Installed Anaconda navigator and launched Jupyter lab to use python programming
+### **Section 4:  Working with Strings**
+- Learned how to run simple scripts
+- Learned concept of variables
+- Learned numerics and how to run simple mathematical operations(addition, multipliation, division and subtraction)
+- Practiced print statements, variables, and data types(string, intergers or boolean value) 
+- String initialisation and typecasting
+- Learned string slicing, and concatenation  
+- Learned case changing i.e. uppercase to lowercase or vice versa and  title mode and sentence mode capitilisation
+- Practiced analyzing short DNA sequences as strings: calculating length of the DNA sequence, splicing sub-part of the string , flipping the string, concatenation of DNA fragments,replacing one protein with another, finding position of  a particular section of a protein , counting protein or DNA nucleotide of interest, splitting and joining strings, and cleaning data using replacing or stripping method
+- Exercises: counting nucleotides, splicing introns, concatenation of exons, counting GC content, calculating length of the exons or DNA sequence, generating complementary strand of a DNA sequence
+
+### **Section 3: Reading and Writing Files**
+- Learned to open and read `.txt` and `.fasta` files  
+- Practiced writing output results to new files  
+- Project: reading DNA data from a FASTA file and printing sequence statistics
